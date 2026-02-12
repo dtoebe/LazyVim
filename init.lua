@@ -63,6 +63,11 @@ require("lazy").setup({
 	{ import = "plugins.git" },
 	{ import = "plugins.devops" },
 	{ import = "plugins.flash" }, -- ← add this so your flash.lua override is loaded
+	{ import = "plugins.bootstrap_css" },
+	{ import = "plugins.emmit" },
+	{ import = "plugins.html_css" },
+	{ import = "plugins.htmx" },
+	{ import = "plugins.python" },
 }, {
 	defaults = {
 		lazy = true,
