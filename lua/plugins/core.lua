@@ -30,7 +30,7 @@ return {
 
 			local servers = {
 				"gopls",
-				"tsserver",
+				"ts_ls",
 				"eslint",
 				"jsonls",
 				"lua_ls",
