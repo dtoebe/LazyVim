@@ -68,6 +68,7 @@ require("lazy").setup({
 	{ import = "plugins.html_css" },
 	{ import = "plugins.htmx" },
 	{ import = "plugins.python" },
+	{ import = "plugins.go-testing" },
 }, {
 	defaults = {
 		lazy = true,
